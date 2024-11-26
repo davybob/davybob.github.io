@@ -14,11 +14,10 @@
 .profile img {
   width: 240px;
   height: 240px;
-  padding: 1vw 10vw 1vw 2vw;
 }
 
 .profile .profile-picture {
-	padding: 1vw 10vw 1vw 2vw;
+  padding: 1vw 10vw 1vw 2vw;
 }
 
 .navigation {
@@ -94,7 +93,7 @@ body {
     height: 240px;
   }
   .profile .profile-picture {
-	padding: 1vw 2vw 1vw 2vw;
+    padding: 1vw 2vw 1vw 2vw;
   }
   body {
     margin-left: 5%;
