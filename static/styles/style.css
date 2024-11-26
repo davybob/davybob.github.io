@@ -93,7 +93,7 @@ body {
     width: 240px;
     height: 240px;
   }
-  .profile.profile-picture {
+  .profile .profile-picture {
 	padding: 1vw 2vw 1vw 2vw;
   }
   body {
