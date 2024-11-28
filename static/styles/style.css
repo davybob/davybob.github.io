@@ -18,6 +18,7 @@
 
 .profile .profile-picture {
   padding: 1vw 10vw 1vw 2vw;
+  align-self: center;
 }
 
 .navigation {
@@ -73,6 +74,10 @@ body {
 
   .profile {
     flex-direction: column;
+  }
+
+  .profile .navigation {
+    padding-left: 0px;
   }
 
 }
